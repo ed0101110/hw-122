@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "echo 'No build step required for Node.js project'"
+    "build": "echo 'No build step required for Node.js project'",
+    "test": "echo 'No tests available for this project'"
   },
   "keywords": [],
   "author": "",
